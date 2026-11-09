@@ -1,0 +1,24 @@
+<header>
+  Main Header
+  <nav aria-label="Sub Header">Sub Header</nav>
+</header>
+
+<main>
+  <form>
+    <select aria-label="Select The Semester">…</select>
+
+    <section aria-label="Tuition and Fee Statement">
+      <h2>Tuition and Fee Statement</h2>
+    </section>
+
+    <section aria-label="Agreement to Pay Tuition Charges Statement">
+      <h2>Agreement to Pay Tuition Charges Statement</h2>
+    </section>
+
+    <section aria-label="Interruption or Changes in Instruction due to Covid-19 Statement">
+      <h2>Interruption or Changes in Instruction due to Covid-19 Statement</h2>
+    </section>
+
+    <button type="submit">Agree for Semester</button>
+  </form>
+</main>

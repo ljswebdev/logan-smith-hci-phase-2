@@ -1,0 +1,41 @@
+<nav aria-label="Categories">
+  Categories Sidebar
+</nav>
+
+<header>
+  Main Header
+  <nav aria-label="Sub Header">Sub Header</nav>
+</header>
+
+<main>
+  <search>
+    <input type="search" aria-label="Search for Portal Apps">
+  </search>
+
+  <aside>
+    <button>eWeber Help</button>
+    <button aria-expanded="false">Tasks Notifications</button>
+  </aside>
+
+  <section aria-label="Portal Apps">
+    <button>Wildcat Mail</button>
+    <button>Faculty/Staff Email</button>
+    <button>WSU Online - Canvas</button>
+    <button>Employee Directory</button>
+
+    <button>Announcements</button>
+    <button>New Student Orientation</button>
+    <button>Student Course Schedule</button>
+    <button>Register for Classes</button>
+
+    <button>Financial Aid</button>
+    <button>View / Pay Tuition</button>
+    <button>Personal Profile</button>
+    <button>CatTracks</button>
+
+    <button>Online Proctoring</button>
+    <button>University Catalog</button>
+    <button>Wildcat Cash</button>
+    <button>Banner Self Service</button>
+  </section>
+</main>

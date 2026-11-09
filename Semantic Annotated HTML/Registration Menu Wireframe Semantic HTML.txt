@@ -1,0 +1,19 @@
+<header>
+  Main Header
+  <nav aria-label="Breadcrumb">Breadcrumb</nav>
+</header>
+
+<main>
+  <h1>What would you like to do?</h1>
+
+  <section aria-label="Registration Options">
+    <button>Prepare for Registration</button>
+    <button>Register for Classes</button>
+
+    <button>Plan Ahead</button>
+    <button>Search Class Schedule</button>
+
+    <button>Student Course Schedule</button>
+    <button>Browse Course Catalog</button>
+  </section>
+</main>

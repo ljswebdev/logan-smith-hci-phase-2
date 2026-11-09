@@ -1,0 +1,48 @@
+<header>
+  Main Header
+  <nav aria-label="Breadcrumb">Breadcrumb</nav>
+</header>
+
+<main>
+  <nav aria-label="Registration Tabs">
+    <button aria-current="page">Find Classes</button>
+    <button>CRNs</button>
+    <button>Plans</button>
+    <button>Schedule</button>
+  </nav>
+
+  <h1>Search Results (Fall 2026)</h1>
+  <button>Search Again</button>
+
+  <table aria-label="Search Results">
+    <tr><th>Search Results Header</th><th>Action</th></tr>
+    <tr><td>Class Row</td><td><button>Add</button></td></tr>
+    <tr><td>Class Row</td><td><button>Add</button></td></tr>
+    <tr><td>Class Row</td><td><button>Add</button></td></tr>
+    <tr><td>Class Row</td><td><button>Add</button></td></tr>
+    <tr><td>Class Row</td><td><button>Add</button></td></tr>
+    <tr><td>Class Row</td><td><button>Add</button></td></tr>
+    <tr><td>Class Row</td><td><button>Add</button></td></tr>
+  </table>
+
+  <button>View Toggle Panels</button>
+
+  <section aria-label="Schedule Details">
+    <h2>Schedule Details</h2>
+    <h3>Class Schedule for Fall 2026</h3>
+    <table aria-label="Weekly Schedule Calendar">…</table>
+  </section>
+
+  <aside aria-label="Summary">
+    <h2>Summary</h2>
+    <ul>
+      <li>Registered Class Row</li>
+      <li>Registered Class Row</li>
+      <li>Registered Class Row</li>
+    </ul>
+    <p>Total Credit Hours</p>
+  </aside>
+
+  <button>View Toggle Panels</button>
+  <button type="submit">Submit</button>
+</main>

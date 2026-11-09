@@ -1,0 +1,15 @@
+<header>
+  Main Header
+  <nav aria-label="Breadcrumb">Breadcrumb</nav>
+</header>
+
+<main>
+  <h1>How would you like to search?</h1>
+
+  <form>
+    <select aria-label="Term / Date Range">…</select>
+    <select aria-label="Terms Open for Registration">…</select>
+
+    <button type="submit">Continue</button>
+  </form>
+</main>
